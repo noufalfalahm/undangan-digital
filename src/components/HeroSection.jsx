@@ -28,9 +28,9 @@ const MockInvitationCard = () => (
 
           <p style={{ fontSize: 11, color: "#A89080", marginBottom: 2 }}>Bismillahirrahmanirrahim</p>
           <p style={{ fontSize: 11, color: "#A89080", marginBottom: 16 }}>Dengan memohon ridho Allah SWT</p>
-          <p className="font-script" style={{ color: "#3D3530", fontSize: "2rem" }}>Anisa</p>
+          <p className="font-script" style={{ color: "#3D3530", fontSize: "2rem" }}>David</p>
           <p className="font-serif" style={{ color: "#A89080", fontSize: "13px" }}>&</p>
-          <p className="font-script" style={{ color: "#3D3530", fontSize: "2rem" }}>Farhan</p>
+          <p className="font-script" style={{ color: "#3D3530", fontSize: "2rem" }}>Victor</p>
 
           <div className="mock-divider" style={{ marginTop: 14, marginBottom: 10 }}>
             <div className="mock-divider-line" style={{ background: "#C8D5BC" }} />
