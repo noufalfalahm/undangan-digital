@@ -2,7 +2,7 @@
 export const CONFIG = {
   brandName: "Kartali Studio",
   brandTagline: "Undangan Digital & Cetak",
-  whatsappNumber: "6281234567890", // Ganti dengan nomor WhatsApp Anda
+  whatsappNumber: "6289622318513", // Ganti dengan nomor WhatsApp Anda
   whatsappDefaultMessage: "Halo, saya tertarik untuk memesan undangan. Boleh minta informasi lebih lanjut?",
   socialMedia: {
     instagram: "https://instagram.com/kartalistudio",
